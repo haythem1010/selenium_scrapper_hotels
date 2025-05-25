@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fbed991-46a8-464d-9cf2-0e8e64c3598c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neo4j/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neo4j/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scarpping/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scarpping/ai1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scarpping/nice_hotels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scarpping/selenium_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/consts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/methods.py" afterDir="false" />
-    </list>
+    <list default="true" id="1fbed991-46a8-464d-9cf2-0e8e64c3598c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "haythem1010"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/haythem1010/selenium_scrapper_hotels.git",
+    "accountId": "1786a58d-4c36-4ee8-a602-86eb58829fb3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
